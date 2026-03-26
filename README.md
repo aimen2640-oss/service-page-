@@ -23,7 +23,7 @@ It showcases different services with a modern UI and smooth animations.
 - EmailJS (for contact form)
 
 ## 📱 Live Website
-(https://aimen.github.io/services-page)
+(https://aimen2640-oss.github.io/service-page-/)
 
 ## 📸 Screenshot
 
