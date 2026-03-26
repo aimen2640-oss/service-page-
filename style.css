@@ -42,3 +42,13 @@ html {
     border-radius: 50%;
     text-decoration: none;
 }
+/* Services Section Images Fix */
+.services img {
+    max-width: 150px; /* Aap isay 100px bhi kar sakti hain agar aur chota chahiye */
+    height: auto;
+    margin-bottom: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
